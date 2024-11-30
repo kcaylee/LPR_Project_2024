@@ -1,1 +1,3 @@
-# LPR_Project_2024
+This project, developed as part of our Linear Programming Project, provides a menu-driven program to solve Linear Programming (LP) and Integer Programming (IP) models. Created collaboratively with my group members, the program also analyzes the sensitivity of the solution to changes in the parameters of the LP model.
+
+The program is developed in a .NET programming language and packaged as a Visual Studio project. It reads input files containing mathematical models, processes them using the Primal Simplex Method, and outputs the results to a text file. It is designed to be intuitive, efficient, and versatile for mathematical optimization problems.
